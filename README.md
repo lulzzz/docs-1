@@ -1,2 +1,2 @@
-# docs
-Laboratory Information System (LIS) Connector Documentation
+# Initial page
+
