@@ -5,6 +5,8 @@
 ## Health IoT Edge
 
 * [Installation](health-iot-edge/untitled.md)
+* [Create a TCP Listener](health-iot-edge/create-a-tcp-listener.md)
+* [Untitled](health-iot-edge/untitled-1.md)
 
 ## Health IoT Hub
 
