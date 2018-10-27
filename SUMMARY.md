@@ -18,7 +18,7 @@
 ## Sandbox Testing
 
 * [Request client credentials](sandbox-testing/request-client-credentials.md)
-* [Request a new processor category](sandbox-testing/request-a-new-processor-category.md)
+* [Request a new device category](sandbox-testing/request-a-new-processor-category.md)
 
 ## Device Category
 
