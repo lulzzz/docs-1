@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Post your Issues](post-your-issues.md)
 
 ## Health IoT Edge
 
