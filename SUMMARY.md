@@ -12,12 +12,13 @@
 
 ## Health IoT Hub
 
-* [Untitled](health-iot-hub/untitled.md)
-* [Untitled](health-iot-hub/untitled-1.md)
+* [Message Processor](health-iot-hub/untitled.md)
+* [Database Storage](health-iot-hub/untitled-1.md)
 
 ## Sandbox Testing
 
 * [Request client credentials](sandbox-testing/request-client-credentials.md)
+* [Request a new processor category](sandbox-testing/request-a-new-processor-category.md)
 
 ## Device Category
 
