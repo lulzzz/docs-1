@@ -17,7 +17,7 @@ The Internet of Things \(IoT\) or Internet of Medical Things \(IoMT\) is a term 
 
 ### Health IoT Edge
 
-Computing at the edge allows medical testing devices to transmit data electronically to the local network server or a local computer on premise. The medical devices will communicate directly with the computer system via a TCP connection. In addition, the devices will communicate with a lower level protocol such as MLLP. To accommodate device connections, an architecture was designed to support connectivity of devices via TCP using low level protocols defined by the relevant HL7, ASTM or POCT connectivity standards that the devices support. Health IoT Edge is a series of Windows Services that listens for HL7, ASTM and POCT messages from the medical devices on a specified TCP port at a specified IP Address.
+Computing at the edge allows medical testing devices to transmit data electronically to the local network server or a local computer on premise. The medical devices will communicate directly with the computer system via a TCP connection. In addition, the devices will communicate with a lower layer protocol such as MLLP. To accommodate device connections, an architecture was designed to support connectivity of devices via TCP using lower layer protocols defined by the relevant HL7, ASTM or POCT connectivity standards that the devices support. Health IoT Edge is a series of Windows Services that listens for HL7, ASTM and POCT messages from the medical devices on a specified TCP port at a specified IP Address.
 
  Health IoT Edge runs as a desktop application on following operating systems:
 
@@ -28,7 +28,7 @@ Computing at the edge allows medical testing devices to transmit data electronic
 The functions of Health IoT edge are to:
 
 * Receive messages over a TCP connection from the medical testing devices
-* Read the message from the low level protocols
+* Read the message from the lower layer protocols
 * Package and send the message to a cloud service \(Processing Service\) for decoding
 * After receiving the decoded message, send the message to another cloud service \(Database Storage Service\) to save the data in a cloud database
 

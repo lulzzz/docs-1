@@ -16,7 +16,7 @@ In the main screen, select the listener and click on the 'Start' button to start
 
 ![](../.gitbook/assets/create-tcp-listener-start.PNG)
 
-The listener is now started and is listening on port 1200 at IP 192.168.0.200 for HL7 messages from medical testing devices.
+The listener is now started and is listening on port 1200 at IP 192.168.0.200 for HL7 messages from medical testing devices connected to the computer system.
 
 ![](../.gitbook/assets/create-tcp-listener-started.PNG)
 

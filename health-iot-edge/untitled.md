@@ -18,3 +18,12 @@ You can download the installation .msi file from the following link:
 
 Health IoT Edge is a utility application used to create and manage several Windows Services on your computer to connect with medical testing devices. You must run the application with Administrator privileges.
 
+### Computer System
+
+You can install Health IoT Edge at any of the following computer systems:
+
+* A network server where one or more medical devices can connect to 
+* A stand alone computer where a medical device can connect to
+
+The computer system must have access to the internet.
+

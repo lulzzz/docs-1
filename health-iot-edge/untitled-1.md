@@ -12,7 +12,7 @@ Configure the medical device to connect to the **Port** number and **IP Address*
 
 In the following example, we will use a simulator to send messages to the TCP Listener.
 
-You can download and install the **Smart HL7 Sende**r at the following link.
+You can download and install the **Smart HL7 Sender** at the following link.
 
 {% embed url="http://smarthl7.com/tools.html" %}
 
