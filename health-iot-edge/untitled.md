@@ -20,7 +20,7 @@ Health IoT Edge is a utility application used to create and manage several Windo
 
 ### Computer System
 
-You can install Health IoT Edge at any of the following computer systems:
+You can install Health IoT Edge on any of the following computer systems:
 
 * A network server where one or more medical devices can connect to 
 * A stand alone computer where a medical device can connect to
