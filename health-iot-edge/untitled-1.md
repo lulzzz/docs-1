@@ -6,9 +6,13 @@ Ensure that the TCP Listener has been set up and is running as described in the 
 
 ![](../.gitbook/assets/create-tcp-listener-started.PNG)
 
+### Connecting a Real Device
+
 Connect the medical testing device to the computer or network server where you installed Health IoT Edge. The device can be connected with an ethernet cable, serial connector, usb, or wi-fi. Some manufacturers may provide hubs or other electrical equipment to connect their device to a computer system.
 
 Configure the medical device to connect to the **Port** number and **IP Address** of your TCP Listener. Take readings on the device and send the messages to your TCP Listener.
+
+### Using a Simulator
 
 In the following example, we will use a simulator to send messages to the TCP Listener.
 
