@@ -13,7 +13,7 @@ The purpose of the Laboratory Information System \(LIS\) Connector project is to
 
 ### Internet of Things \(IoT\)
 
-The Internet of Things \(IoT\) or Internet of Medical Things \(IoMT\) is a term used to describe the concept of devices connecting to computer systems to transfer and receive data. Ultimately, this data is stored in a cloud system and is made available to users for viewing and analyzing. IoT supports Big Data Analysis, Machine Learning and Artificial Intelligence systems.
+The Internet of Things \(IoT\) or Internet of Medical Things \(IoMT\) is a term used to describe the concept of devices connecting to a computer systems to transfer and receive data. Ultimately, this data is stored in a cloud system and is made available to users for viewing and analyzing. IoT supports Big Data Analysis, Machine Learning and Artificial Intelligence systems.
 
 ### Health IoT Edge
 
